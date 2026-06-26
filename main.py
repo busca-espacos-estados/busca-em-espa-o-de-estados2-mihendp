@@ -21,7 +21,7 @@ def print_result(name: str, result):
 
 
 if __name__ == "__main__":
-    initial = State((2, 8, 3, 1, 6, 4, 7, 0, 5))   # ~20 movimentos até a solução
+    initial = State((1, 3, 6, 5, 0, 2, 4, 7, 8))
 
     print("Estado inicial:")
     print(initial)
